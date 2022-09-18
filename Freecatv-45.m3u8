@@ -139,10 +139,6 @@ https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8
 https://live.al-zahratv.com/live/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://hd-report.com/wp-content/uploads/2016/01/4k-ultrahd-logo.jpg",Clarity 4K
 https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/F3qs1LY/Zee-Bangla.jpg",ZeeBangla
-http://familyplus.me:8080/live/younes123/123456/216751.ts
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/7n6hGcs/Starjalsha-HD.jpg",StarJalsha
-http://familyplus.me:8080/live/younes123/123456/216748.ts
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/GP8KqgF/Ekushey-TV.jpg",Ekusey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/QPF1Kqp/Banglavision.jpg",BanglaVision
@@ -179,8 +175,6 @@ http://jupiter.bdcabletv.com/Gazi-Tv/video.m3u8
 http://jupiter.bdcabletv.com/T-sp/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/BztYMg6/News24HD.jpg",News24
 http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/6Yntbqv/SATV.jpg",SATV
-http://familyplus.me:8080/live/younes123/123456/216743.ts
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/CtJSSvC/Gaanbangla-HD.jpg",GAAN BANGLA
 http://208.86.19.13:81/612.stream/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/3fKQxqd/Jamuna-TV.jpg",Jamuna TV
@@ -203,12 +197,8 @@ https://tempskyview.jagobd.com:441/live-orgin/voicetv.stream/chunks.m3u8
 http://jupiter.bdcabletv.com/Zee_Bangla_HD/video.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/7n6hGcs/Starjalsha-HD.jpg",StarJalsha HD
 http://jupiter.bdcabletv.com/Jalsha-Star/video.m3u8
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/0GXTv7Q/Sonyath.jpg",Sony Aath
-http://familyplus.me:8080/live/younes123/123456/216747.ts
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/72s91nF/Star-Jalsha-Movies.jpg",Jalsha Movies
 http://jupiter.bdcabletv.com/jalshamuvie-enc/video.m3u8
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/pjrbj9H/Zee-Bangla-Cinema.jpg",Zee Bangla Cinema
-http://familyplus.me:8080/live/younes123/123456/216752.ts
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/Jzw31tY/Sangeet-Bangla.jpg",SangeetBangla
 https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/C8gfNJb/Bangla-Talkies.jpg",Bangla Talkies
@@ -259,8 +249,6 @@ http://jupiter.bdcabletv.com/And_Picenc/video.m3u8
 https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/3WjKV4L/flix.jpg",&flix HD
 http://jupiter.bdcabletv.com/AndFlixHD/video.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/P5GtXnS/Sonymax.jpg",Sony Max UK
-http://familyplus.me:8080/live/younes123/123456/72072.ts
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/5TWJPXF/Zee-Anmol-Cunema.jpg",ZEE ANMOL CINEMA
 http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/sthCWgw/Zee-Cinema-HD.jpg",ZEE CINEMA UK
@@ -293,12 +281,6 @@ http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8?token=test
 http://208.86.19.13:81/728.stream/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/LRf5ZMY/HBO.jpg",HBO Asia
 https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/DW4SzvT/Hbo1.png",HBO 1
-http://familyplus.me:8080/live/younes123/123456/59130.ts
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/HDtmV1j/Hbo2.png",HBO 2
-http://familyplus.me:8080/live/younes123/123456/59117.ts
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/bN3V1Pw/Hbo3.png",HBO 3
-http://familyplus.me:8080/live/younes123/123456/196803.ts
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/",BBC AMERICA
 https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/nwtLFNM/Sonypix.jpg",Sony Pix HD
