@@ -1,0 +1,128 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports.png" group-title="BJ TECH-Sports", Jio Sports HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668228
+
+#EXTINF:-1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football.png" group-title="BJ TECH-Sports", Jio Football HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668230
+
+#EXTINF:-1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png" group-title="BJ TECH-Sports", Jio Cricket HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668231
+
+#EXTINF:-1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_English.png" group-title="BJ TECH-Sports", Jio Cricket English HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668232
+
+#EXTINF:-1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_Hindi.png" group-title="BJ TECH-Sports", Jio Cricket Hindi HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668233
+
+#EXTINF:-1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_1_HD.png" group-title="BJ TECH-Sports", Jio Cricket 1 HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668235
+
+#EXTINF:-1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_2_HD.png" group-title="BJ TECH-Sports", Jio Cricket 2 HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668236
+
+#EXTINF:-1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Esports_HD.png" group-title="BJ TECH-Sports", JioGames HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668237
+
+#EXTINF:-1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_4_HD.png" group-title="BJ TECH-Sports", Jio Cricket 4 HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668239
+
+#EXTINF:-1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_1.png" group-title="BJ TECH-Sports", Jio Football 1 HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668242
+
+#EXTINF:-1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_3.png" group-title="BJ TECH-Sports", Jio Cricket 3 HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668243
+
+#EXTINF:-1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_2.png" group-title="BJ TECH-Sports", Jio Football 2 HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668244
+
+#EXTINF:-1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_3.png" group-title="BJ TECH-Sports", Jio Football 3 HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668245
+
+#EXTINF:-1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_4.png" group-title="BJ TECH-Sports", Jio Football 4 HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668246
+
+#EXTINF:-1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png" group-title="BJ TECH-Sports", DD Sports
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668261
+
+#EXTINF:-1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="BJ TECH-Sports", Ten 1 HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668262
+
+#EXTINF:-1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="BJ TECH-Sports", Ten 1
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668263
+
+#EXTINF:-1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="BJ TECH-Sports", Ten 2 HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668264
+
+#EXTINF:-1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" group-title="BJ TECH-Sports", Ten 2
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668265
+
+#EXTINF:-1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="BJ TECH-Sports", Ten 3 HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668266
+
+#EXTINF:-1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" group-title="BJ TECH-Sports", Ten 3
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668267
+
+#EXTINF:-1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="BJ TECH-Sports", Sony Six HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668268
+
+#EXTINF:-1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="BJ TECH-Sports", Sony Six SD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668269
+
+#EXTINF:-1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dsports.png" group-title="BJ TECH-Sports", Eurosport
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668270
+
+#EXTINF:-1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png" group-title="BJ TECH-Sports", Eurosport HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668271
+
+#EXTINF:-1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MI_TV.png" group-title="BJ TECH-Sports", MI TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668428
+
+#EXTINF:-1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ESG.png" group-title="BJ TECH-Sports", ESG TV
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668457
+
+#EXTINF:-1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/1Sports.png" group-title="BJ TECH-Sports", 1Sports
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668476
+
+#EXTINF:-1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Tamil.png" group-title="BJ TECH-Sports", Ten 4 HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668508
+
+#EXTINF:-1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_Tamil.png" group-title="BJ TECH-Sports", Ten 4
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668509
+
+#EXTINF:-1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_5.png" group-title="BJ TECH-Sports", Jio Football 5 HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668514
+
+#EXTINF:-1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_6.png" group-title="BJ TECH-Sports", Jio Football 6 HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668515
+
+#EXTINF:-1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_7.png" group-title="BJ TECH-Sports", Jio Football 7 HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668517
+
+#EXTINF:-1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football.png" group-title="BJ TECH-Sports", Jio Football HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668230
+
+#EXTINF:-1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png" group-title="BJ TECH-Sports", Jio Cricket HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668231
+
+#EXTINF:-1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_English.png" group-title="BJ TECH-Sports", Jio Cricket English HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668232
+
+#EXTINF:-1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_Hindi.png" group-title="BJ TECH-Sports", Jio Cricket Hindi HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668233
+
+#EXTINF:-1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_1_HD.png" group-title="BJ TECH-Sports", Jio Cricket 1 HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668235
+
+#EXTINF:-1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_2_HD.png" group-title="BJ TECH-Sports", Jio Cricket 2 HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668236
+
+#EXTINF:-1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Esports_HD.png" group-title="BJ TECH-Sports", JioGames HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668237
+
+#EXTINF:-1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_4_HD.png" group-title="BJ TECH-Sports", Jio Cricket 4 HD
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668239
+
