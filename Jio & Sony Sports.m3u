@@ -125,28 +125,3 @@ https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668237
 
 #EXTINF:-1 tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_4_HD.png" group-title="BJ TECH-Sports", Jio Cricket 4 HD
 https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668239
-
-#EXTINF:0 tvg-id="SonyMAX.in" group-title="AllLiveSportsLinks-Sony Liv",SONY MAX HD
-https://bit.ly/32bsOnymAXhd
-#EXTINF:0 tvg-id="SonyMax2.uk" group-title="AllLiveSportsLinks-Sony Liv",SONY MAX 2
-https://bit.ly/30dsoNYmaX2
-#EXTINF:0 tvg-id="ext" group-title="AllLiveSportsLinks-Sony Liv",SONY WAH
-https://bit.ly/3j7sOnywAh
-#EXTINF:0 tvg-id="SonyPIX.in" group-title="AllLiveSportsLinks-Sony Liv",SONY PIX HD
-https://bit.ly/32sOnypIXhd
-#EXTINF:0 tvg-id="TenHD.in" group-title="AllLiveSportsLinks-Sony Liv",SONY TEN 1 HD
-https://bit.ly/2B9tEN1hd
-#EXTINF:0 tvg-id="TenAction.in" group-title="AllLiveSportsLinks-Sony Liv",SONY TEN 2 HD
-https://bit.ly/2DOtEN2hd
-#EXTINF:0 tvg-id="TenCricket.in" group-title="AllLiveSportsLinks-Sony Liv",SONY TEN 3 HD
-https://bit.ly/2OwtEn3hd
-#EXTINF:0 tvg-id="TenSports.in" group-title="AllLiveSportsLinks-Sony Liv",SONY TEN 1
-https://bit.ly/2ZtEn1Sd
-#EXTINF:0 tvg-id="TenAction.in" group-title="AllLiveSportsLinks-Sony Liv",SONY TEN 2
-https://bit.ly/30teN2sd
-#EXTINF:0 tvg-id="TenCricket.in" group-title="AllLiveSportsLinks-Sony Liv",SONY TEN 3
-https://bit.ly/2B9teN3sd
-#EXTINF:0 tvg-id="SonySix.in" group-title="AllLiveSportsLinks-Sony Liv",SONY SIX
-https://bit.ly/3j8sIx7sd
-#EXTINF:0 tvg-id="SonySixHD.in" group-title="AllLiveSportsLinks-Sony Liv",SONY SIX HD
-https://bit.ly/3h6sIXHd
