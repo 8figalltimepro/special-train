@@ -72,3 +72,7 @@ https://netliveworld.xyz/autoq1234.php?c=Sports18_1_HD
 https://netliveworld.xyz/autoq1234.php?c=Sports18_1_SD
 #EXTINF:0 tvg-id="ext" group-title="AllLiveSportsLinks-Sports",Sports18 Khel
 https://netliveworld.xyz/autoq1234.php?c=Sports18_Khel
+#EXTINF:0 tvg-id="SonyPIX.in" group-title="AllLiveSportsLinks-Movies",Sony Pix HD
+https://netliveworld.xyz/autoq1234.php?c=Sony_Pix_HD
+#EXTINF:0 tvg-id="ext" group-title="AllLiveSportsLinks-Movies",Bflix Movies
+https://netliveworld.xyz/autoq1234.php?c=Bflix_Movies
