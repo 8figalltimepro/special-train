@@ -1,1 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/200px-MTV_2021_%28brand_version%29.svg.png",MTV HD
 https://netliveworld.xyz/tmdone.php?c=MTV_HD_Plus&q=1200&e.m3u8
