@@ -20,7 +20,7 @@ http://103.166.102.58:8000/play/a00u
 #EXTINF:-1 group-title="Movies English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/MNX_new_logo.png/220px-MNX_new_logo.png",MNX 
 http://103.166.102.58:8000/play/a01h
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/200px-MTV_2021_%28brand_version%29.svg.png",MTV 
-https://netliveworld.xyz/oasia_by_the_sea.php?c=MTV_HD_Plus&q=1200&e=.m3u8
+https://netlivetv.xyz/oasia_by_the_sea.php?c=MTV_HD_Plus&q=1200&e=.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/220px-National_Geographic_Wild_logo.svg.png",NAT Geo Wild HD
 http://103.166.102.58:8000/play/a00i
 #EXTINF:-1 group-title="Movies English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Sony_PIX.png/120px-Sony_PIX.png",PIX HD 
